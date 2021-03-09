@@ -52,7 +52,7 @@ def psb(z):
 def t():
     time.sleep(1)
 def cb():
-    os.system('clear')
+    
 ##### Dev : Arbab Ali Memon#####
 ##### LOGO #####
 logo = """
