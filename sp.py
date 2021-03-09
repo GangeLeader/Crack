@@ -200,11 +200,11 @@ def action():
 		action()
  
 	
-	psb ('[✓] Please wait, process is running ...')
+	print ('[✓] Please wait, process is running ...')
 	time.sleep(0.5)
-	psb ('[✓] Last 07 Digit Crack,786786,Pakistan Found ...')
+	print('[✓] Last 07 Digit Crack,786786,Pakistan Found ...')
 	time.sleep(0.5)
-	psb ('[!] Kalti Marne Ke lye(To Exit) Press CTRL Then Press z')
+	print ('[!] Kalti Marne Ke lye(To Exit) Press CTRL Then Press z')
 	time.sleep(0.5)
 	print 50*'-'
 	print
