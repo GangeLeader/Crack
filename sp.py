@@ -71,13 +71,13 @@ logo='''
 print
 
 \x1b[1;93m--------------------------------------------------------------
-\x1b[1;92m➣  YouTube  : CYBER GANGE HIDDEN TRICKER
-\x1b[1;91m➣  Facebook : ARBAB ALI MEMON
-\x1b[1;93m➣  Note     : CYBER PLAYER R.H.S 1.0286
-\x1b[1;95m➣  Warning  : IF NOT WORK THAN USE FREE VPN
-\x1b[1;96m➣  Whatsapp : +923003023263
-\x1b[1;97m➣  Note     : ANY KIND PROBLEM MSG ME.
-\x1b[1;94m➣  Disclamiar :AWAY FROM ILLIGAL WAY.
+➣  YouTube  : CYBER GANGE HIDDEN TRICKER
+➣  Facebook : ARBAB ALI MEMON
+➣  Note     : CYBER PLAYER R.H.S 1.0286
+➣  Warning  : IF NOT WORK THAN USE FREE VPN
+➣  Whatsapp : +923003023263
+➣  Note     : ANY KIND PROBLEM MSG ME.
+➣  Disclamiar :AWAY FROM ILLIGAL WAY.
 \x1b[1;93m--------------------------------------------------------------"""
                                 '''
 
