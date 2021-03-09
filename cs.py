@@ -56,7 +56,8 @@ def cb():
 ##### Dev : Arbab Ali Memon#####
 ##### LOGO #####
 logo='''
-\033[1;91mArbab Ali Memon
+print
+Arbab Ali Memon
 '''
 
 back = 0
