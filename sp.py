@@ -64,7 +64,7 @@ sys.setdefaultencoding("utf-8")
 c = "\033[1;32m"
 c2 = "\033[0;97m"
 c3 = "\033[1;31m"
-    os.system('clear')
+    
 ##### Dev : Arbab Ali Memon#####
 ##### LOGO #####
 logo='''
