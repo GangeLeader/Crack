@@ -68,18 +68,10 @@ c3 = "\033[1;31m"
 ##### Dev : Arbab Ali Memon#####
 ##### LOGO #####
 logo='''
-print
+print "Arbab Ali Memon"
+print "03003023263"
+'''
 
-\x1b[1;93m--------------------------------------------------------------
-➣  YouTube  : CYBER GANGE HIDDEN TRICKER
-➣  Facebook : ARBAB ALI MEMON
-➣  Note     : CYBER PLAYER R.H.S 1.0286
-➣  Warning  : IF NOT WORK THAN USE FREE VPN
-➣  Whatsapp : +923003023263
-➣  Note     : ANY KIND PROBLEM MSG ME.
-➣  Disclamiar :AWAY FROM ILLIGAL WAY.
-\x1b[1;93m--------------------------------------------------------------"""
-                                '''
 
 back = 0
 successful = []
