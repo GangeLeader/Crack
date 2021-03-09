@@ -199,9 +199,7 @@ def action():
 		print '[!] Fill in correctly'
 		action()
  
-	xxx = str(len(id))
-	psb ('[✓] Total Numbers: '+xxx)
-	time.sleep(0.5)
+	
 	psb ('[✓] Please wait, process is running ...')
 	time.sleep(0.5)
 	psb ('[✓] Last 07 Digit Crack,786786,Pakistan Found ...')
